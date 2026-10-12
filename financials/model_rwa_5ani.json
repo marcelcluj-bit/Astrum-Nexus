@@ -1,0 +1,43 @@
+{
+  "project": "Astrum-Nexus",
+  "currency": "EUR",
+  "total_budget": 400000000,
+  "rwa_token": {
+    "symbol": "$SIT",
+    "name": "Space Infrastructure Token",
+    "total_supply": 100000000,
+    "initial_price": 1.60
+  },
+  "financial_projections": [
+    {
+      "year": 1,
+      "aum": 40000000,
+      "ebitda": -12000000,
+      "peace_yield_percent": 0.0
+    },
+    {
+      "year": 2,
+      "aum": 120000000,
+      "ebitda": -5000000,
+      "peace_yield_percent": 1.5
+    },
+    {
+      "year": 3,
+      "aum": 280000000,
+      "ebitda": 22000000,
+      "peace_yield_percent": 4.8
+    },
+    {
+      "year": 4,
+      "aum": 450000000,
+      "ebitda": 68000000,
+      "peace_yield_percent": 7.2
+    },
+    {
+      "year": 5,
+      "aum": 650000000,
+      "ebitda": 115000000,
+      "peace_yield_percent": 8.5
+    }
+  ]
+}
